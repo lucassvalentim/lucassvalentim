@@ -1,4 +1,4 @@
-# Hey you 👋! I'm Lucas Valentim
+# Hey you 👋! 
 
 🐍 Computer Science student at UFSJ <br>
 😎 21 years old
